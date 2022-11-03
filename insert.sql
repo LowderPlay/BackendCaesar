@@ -1,0 +1,1 @@
+INSERT INTO operations (rot, date) VALUES (?, date('now'))

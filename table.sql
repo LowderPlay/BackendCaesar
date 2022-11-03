@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS operations (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    rot INTEGER,
+    date TEXT
+)
